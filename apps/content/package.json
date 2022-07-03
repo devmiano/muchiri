@@ -1,11 +1,7 @@
 {
 	"name": "content",
-	"private": true,
 	"version": "1.0.0",
-	"description": "",
-	"main": "package.json",
-	"author": "Sammy Muchiri <dev.miano@gmail.com>",
-	"license": "UNLICENSED",
+	"private": true,
 	"scripts": {
 		"dev": "sanity start",
 		"start": "sanity start",
