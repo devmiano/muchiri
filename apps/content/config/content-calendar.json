@@ -1,0 +1,27 @@
+{
+	"types": [
+		{
+			"type": "product",
+			"field": "time",
+			"titleField": "title"
+		},
+		{
+			"type": "project",
+			"field": "time",
+			"titleField": "title"
+		},
+		{
+			"type": "service",
+			"field": "time",
+			"titleField": "title"
+		}
+	],
+	"calendar": {
+		"event": {
+			"dateFormat": "MMMM, dd yyyy",
+			"timeFormat": "hh:mm a",
+			"showAuthor": "true"
+		}
+	},
+	"filterWarnings": []
+}
